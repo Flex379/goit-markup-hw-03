@@ -57,3 +57,22 @@
   display: flex;
   gap: 40px;
 }
+
+.header-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-right: 76px;
+}
+
+.address {
+  margin-left: auto;
+}
+
+.header-link,
+.header-contact {
+  display: block;
+  padding: 24px 0;
+}
